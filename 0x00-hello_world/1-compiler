@@ -1,0 +1,2 @@
+#!/bin/ash
+gcc -c $CFILE.c -o $CFILE.o
