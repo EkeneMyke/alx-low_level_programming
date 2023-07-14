@@ -4,7 +4,7 @@
 /**
  * Main - Entry point
  * Description: Enter varying values for n
- *Return: always zero
+ * Return: always zero
  */
 int main(void)
 {
