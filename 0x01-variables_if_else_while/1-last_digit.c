@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - Entry point
- * Description: Enter varying values for n
- * Return: always zero
+ *Main - Entry point
+ *Description: Enter varying values for n
+ *Return: always zero
  */
 int main(void)
 {
