@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description - Tranforming small alphabets
- * Return - Always 0
- */
+  * main - Entry point
+  * Description: Tranforming small alphabets
+  * Return: Always 0
+  */
 int main(void)
 {
 
@@ -13,8 +13,6 @@ int main(void)
 		putchar(n);
 		n++;
 	}
-	{
-		putchar('\n');
-	}
+	putchar('\n');
 	return(0);
 }
