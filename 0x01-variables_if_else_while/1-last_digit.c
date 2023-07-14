@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *Main - Entry point
-  *Description: Enter varying values for n
-  *Return: always zero
-  */
+ * main - Entry point
+ * Description: Enter varying values for n
+ * Return: always zero
+ */
 int main(void)
 {
 	int n;
