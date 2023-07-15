@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - Entry point
- *Description: Removing some alphabets
+ *main - Entry
+ *Description: Excluding some alphabets
  *Return: Always 0
  */
 int main(void)
@@ -15,7 +15,7 @@ int main(void)
 			n++;
 			continue;
 		}
-		putchar(0);
+		putchar(n);
 		n++;
 	}
 	putchar('\n');
