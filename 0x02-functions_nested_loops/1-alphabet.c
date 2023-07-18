@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *main- Entry point
- *Description:Printing_alphabets in small letters
+ *main-Entry point
+ *Description:void print_alphabet(void) function to print small alphabets.
  *Return: Always o
  */
 void print_alphabet(void)
