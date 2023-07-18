@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include "main.h"
 /**
- *main-Entry point
- *Description:void print_alphabet(void) function to print small alphabets.
- *Return: Always o
+ *print_alphabet - prints alphabets in lowercase.
+ *
+ *Return: Always 0 (success)
  */
 void print_alphabet(void)
 {
