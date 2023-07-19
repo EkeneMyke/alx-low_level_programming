@@ -19,12 +19,12 @@ void jack_bauer(void)
 				{
 					if (a >= 2 && b >= 4)
 						break;
-					_putchar(a + 48);
-					_putchar(b + 48);
-					_putchar(58);
-					_putchar(c + 48);
-					_putchar(d + 48);
-					_putchar('\n');
+					putchar(a + 48);
+					putchar(b + 48);
+					putchar(58);
+					putchar(c + 48);
+					putchar(d + 48);
+					putchar('\n');
 				}
 			}
 		}
