@@ -16,12 +16,10 @@ int main(void)
 	while (i < 10)
 	{
 		putchar(i);
-
 		/*No incremental declaration for i*/
 	}
 
 	printf("Infinite loop avoided! \\o/\n");
-	
 	/*Presence of special characters that cannot be assigned*/
 
 	return (0);
