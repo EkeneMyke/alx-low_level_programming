@@ -4,7 +4,7 @@
 /**
  *print_most_numbers - prints numbers from 0 to 9 except 2 and 4
  *
- *@n: assigned value
+ *n: assigned value
  *Return: 0
  */
 
@@ -14,11 +14,7 @@ void print_most_numbers(void)
 
 	for (n = '0'; n <= '9'; n++)
 	{
-		if (n == 2 && n == 4)
-		{
-			break;
-		}
-		else
+		if (!(n == 2 || n == 4))
 		{
 			_putchar(n);
 		}
