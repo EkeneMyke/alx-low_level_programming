@@ -21,6 +21,8 @@ int main(void)
 	}
 
 	printf("Infinite loop avoided! \\o/\n");
+	
+	/*Presence of special characters that cannot be assigned*/
 
 	return (0);
 }
