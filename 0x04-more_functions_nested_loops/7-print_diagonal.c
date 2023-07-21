@@ -4,7 +4,7 @@
 /**
  *print_diagonal - draws a diagonal line on the terminal
  *
- *@n: number of times the character / is drawn
+ *n: number of times the character \ is drawn
  *
  *Return: Always 0
  */
