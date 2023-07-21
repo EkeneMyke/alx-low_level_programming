@@ -4,14 +4,14 @@
 /**
  *print_diagonal - draws a diagonal line on the terminal
  *
- *n: number of times the character \ is drawn
+ *@n: number of times the character \ is drawn
  *
  *Return: Always 0
  */
 
 void print_diagonal(int n)
 {
-	if (n  <= 0)
+	if (n <= 0)
 	{
 		_putchar('\n');
 	}
