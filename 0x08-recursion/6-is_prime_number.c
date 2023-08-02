@@ -4,7 +4,7 @@
 int check_prime(int n, int i);
 
 /**
- *int is_prime_number - returns if a number is prime
+ *_prime_number - returns if a number is prime
  *@n: the number to be checked
  *
  *Return: integer value
