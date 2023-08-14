@@ -1,11 +1,6 @@
-#include <stdio.h>
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
 
-/**
- * Main - defines a macro
- *
- * Return - Always 0 (Success)
- */
-int main(void)
-{
-	#define size 1024
-}
+#define SIZE 1024
+
+#endif
